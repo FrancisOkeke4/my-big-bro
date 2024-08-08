@@ -1,0 +1,5 @@
+.fight ul li{
+    display: inline-flex;
+    margin: 100px;
+    list-style: none;
+}
